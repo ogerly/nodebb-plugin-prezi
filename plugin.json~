@@ -1,0 +1,13 @@
+{
+	"id": "nodebb-plugin-prezi",
+	"name": "NodeBB Prezi Plugin",
+	"description": "NodeBB Plugin that allows users to embed Prezi presentations inline in their posts.",
+	"url": "https://github.com/ogerly/nodebb-plugin-prezi",
+	"library": "./library.js",
+	"hooks": [
+		{ "hook": "filter:parse.post", "method": "parse", "callbacked": true }
+	],
+	"staticDirs": {
+        "css": "./static"
+    }
+}

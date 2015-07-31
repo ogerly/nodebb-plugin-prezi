@@ -1,8 +1,8 @@
 {
-	"id": "nodebb-plugin-prezi",
-	"name": "NodeBB Prezi Plugin",
-	"description": "NodeBB Plugin that allows users to embed Prezi presentations inline in their posts.",
-	"url": "https://github.com/tedr56/nodebb-plugin-prezi",
+	"id": "nodebb-plugin-audioplayer",
+	"name": "NodeBB Audioplayer Plugin",
+	"description": "This plugin is prayed mp3 appear in a player",
+	"url": "https://github.com/ogerly/nodebb-plugin-audioplayer",
 	"library": "./library.js",
 	"hooks": [
 		{ "hook": "filter:parse.post", "method": "parse", "callbacked": true }

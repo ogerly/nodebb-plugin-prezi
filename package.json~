@@ -1,14 +1,14 @@
 {
-  "name": "nodebb-plugin-audioplayer",
+  "name": "nodebb-plugin-prezi",
   "version": "0.0.1",
-  "description": "NodeBB Audioplayer Plugin",
+  "description": "NodeBB Prezi Plugin",
   "main": "library.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ogerly/nodebb-plugin-audioplayer.git"
+    "url": "git+https://github.com/ogerly/nodebb-plugin-prezi.git"
   },
   "nbbpm": {
     "compatibility": "^0.7.1"
@@ -16,9 +16,9 @@
   "keywords": [
     "nodebb",
     "plugin",
-    "audio",
-    "mp3",
-    "player"
+    "prezi",
+    "presentation",
+    "embed"
   ],
   "author": {
     "name": "ogerly",

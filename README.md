@@ -1,11 +1,11 @@
-# NodeBB Prezi Plugin
+# NodeBB Audioplayer Plugin
 
-This NodeBB plugin allows users to embed Prezi presentations inline in their posts.
+This plugin is prayed mp3 appear in a player.
 
 ## Installation
 
-    npm install nodebb-plugin-prezi
+    npm install nodebb-plugin-audioplayer
 
 ## Use
 
-    Just drop the link to your Prezi presentation's page in the NodeBB Compositor.
+    This plugin is prayed mp3 appear in a player

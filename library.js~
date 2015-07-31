@@ -3,7 +3,7 @@
 
 	var AudioPlayer = {},
 
-		 embed = '<div>$1<audio src="/uploads/files/$1" controls ></audio></div>';
+		 embed = '<audio src="/uploads/files/$1" controls >$1</audio>';
 
 
   
