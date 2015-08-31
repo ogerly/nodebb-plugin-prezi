@@ -11,7 +11,7 @@
     "url": "git+https://github.com/ogerly/nodebb-plugin-audioplayer.git"
   },
   "nbbpm": {
-    "compatibility": "^0.7.1"
+    "compatibility": "^0.7.3"
   },
   "keywords": [
     "nodebb",
